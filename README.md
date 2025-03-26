@@ -21,6 +21,7 @@ Deploy Your Project Locally
 ===========================
 
 1. Start Airflow on your local machine by running 'astro dev start'.
+![Screenshot 2025-03-26 124344](https://github.com/user-attachments/assets/109e554c-d9ab-45f2-afe8-327b63c3f0d4)
 
 This command will spin up 4 Docker containers on your machine, each for a different Airflow component:
 
@@ -30,10 +31,16 @@ This command will spin up 4 Docker containers on your machine, each for a differ
 - Triggerer: The Airflow component responsible for triggering deferred tasks
 
 2. Verify that all 4 Docker containers were created by running 'docker ps'.
+![Screenshot 2025-03-26 125404](https://github.com/user-attachments/assets/8b4249e0-f0dc-40f1-aed6-5f5b0331f2ff)
 
 Note: Running 'astro dev start' will start your project with the Airflow Webserver exposed at port 8080 and Postgres exposed at port 5432. If you already have either of those ports allocated, you can either [stop your existing Docker containers or change the port](https://www.astronomer.io/docs/astro/cli/troubleshoot-locally#ports-are-not-available-for-my-local-airflow-webserver).
 
 3. Access the Airflow UI for your local Airflow project. To do so, go to http://localhost:8080/ and log in with 'admin' for both your Username and Password.
+![Screenshot 2025-03-26 124323](https://github.com/user-attachments/assets/a2464d2e-b826-4c03-8565-3b89092e65ac)
 
-You should also be able to access your Postgres Database at 'localhost:5432/postgres'.
 
+![Screenshot 2025-03-26 124829](https://github.com/user-attachments/assets/e2fd63ba-1e50-42b0-ac68-149452d6bb2c)
+![Screenshot 2025-03-26 125107](https://github.com/user-attachments/assets/53f9fdf7-ffdf-4998-be6a-4920510c40e5)
+![Screenshot 2025-03-26 125147](https://github.com/user-attachments/assets/ebbc1056-649f-470a-ab81-d41d3928ae7f)
+![Screenshot 2025-03-26 125221](https://github.com/user-attachments/assets/eb7138ef-57b8-456b-bf32-bc19b57f0b54)
+![Screenshot 2025-03-26 125434](https://github.com/user-attachments/assets/e13c7d75-97e2-46d9-b4df-ea4351d6d0d8)
