@@ -44,3 +44,12 @@ Note: Running 'astro dev start' will start your project with the Airflow Webserv
 ![Screenshot 2025-03-26 125147](https://github.com/user-attachments/assets/ebbc1056-649f-470a-ab81-d41d3928ae7f)
 ![Screenshot 2025-03-26 125221](https://github.com/user-attachments/assets/eb7138ef-57b8-456b-bf32-bc19b57f0b54)
 ![Screenshot 2025-03-26 125434](https://github.com/user-attachments/assets/e13c7d75-97e2-46d9-b4df-ea4351d6d0d8)
+
+
+![Screenshot 2025-03-26 132352](https://github.com/user-attachments/assets/f829b959-1a87-4cc4-b459-77433c4962cc)
+![Screenshot 2025-03-26 132644](https://github.com/user-attachments/assets/a1ed6879-d90a-4cd7-b897-69bef299d803)
+![Screenshot 2025-03-26 132614](https://github.com/user-attachments/assets/cdec04cf-6e92-4702-9f1e-d500a7bae98d)
+![Screenshot 2025-03-26 132614](https://github.com/user-attachments/assets/5797465f-1d1d-44d9-9e3a-bbdaccc18700)
+![Screenshot 2025-03-26 132644](https://github.com/user-attachments/assets/39eaa845-7b87-4a96-affa-bcc8882bbb3b)
+![Screenshot 2025-03-26 132711](https://github.com/user-attachments/assets/b770fe1e-9183-4295-88ef-03fd9dad092d)
+![Screenshot 2025-03-26 132726](https://github.com/user-attachments/assets/522aad55-ad77-41b2-a875-b9dbb155a213)
