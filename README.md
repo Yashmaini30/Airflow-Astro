@@ -53,3 +53,10 @@ Note: Running 'astro dev start' will start your project with the Airflow Webserv
 ![Screenshot 2025-03-26 132644](https://github.com/user-attachments/assets/39eaa845-7b87-4a96-affa-bcc8882bbb3b)
 ![Screenshot 2025-03-26 132711](https://github.com/user-attachments/assets/b770fe1e-9183-4295-88ef-03fd9dad092d)
 ![Screenshot 2025-03-26 132726](https://github.com/user-attachments/assets/522aad55-ad77-41b2-a875-b9dbb155a213)
+
+![Screenshot 2025-03-27 113533](https://github.com/user-attachments/assets/c7971511-9ba9-4553-963d-7c8d7186ef93)
+![Screenshot 2025-03-27 113545](https://github.com/user-attachments/assets/11fbaf62-6d86-4b92-9d15-c56cc82e117b)
+![Screenshot 2025-03-27 113551](https://github.com/user-attachments/assets/1b2e32b0-488d-475b-90ec-182d5038548b)
+![Screenshot 2025-03-27 113622](https://github.com/user-attachments/assets/5c0b8603-f29c-4ea0-a45d-e13695a5f4ff)
+![Screenshot 2025-03-27 113648](https://github.com/user-attachments/assets/c3fadf39-9024-4bec-89be-fb2f03016161)
+
